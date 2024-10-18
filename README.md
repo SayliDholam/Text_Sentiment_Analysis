@@ -7,7 +7,7 @@ pip install streamlit<br/>
 pip install clean-text[gpl]<br/>
 pip install openpyxl <br/>
 pip install matplotlib<br/>
-</br>
+pip install tweepy</br>
 
 
 
