@@ -8,6 +8,7 @@ pip install clean-text[gpl]<br/>
 pip install openpyxl <br/>
 pip install matplotlib<br/>
 pip install tweepy</br>
+pip install twint</br>
 
 
 
