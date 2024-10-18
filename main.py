@@ -2,6 +2,8 @@ from textblob import TextBlob
 import pandas as pd
 import streamlit as st
 import cleantext
+import matplotlib.pyplot as plt
+from wordcloud import WordCloud
 
 # Set up the header for the Streamlit app
 st.header('Sentiment Analysis')
@@ -19,18 +21,18 @@ with st.expander('Analyze Text'):
         st.write(cleantext.clean(pre, clean_all=False, extra_spaces=True,
                                  stopwords=True, lowercase=True, numbers=True, punct=True))
 
-# EXCEL analysis section
-with st.expander('Analyze EXCEL data'):
+# CSV analysis section
+with st.expander('Analyze CSV'):
     upl = st.file_uploader('Upload file')
 
     def score(x):
         blob1 = TextBlob(x)
         return blob1.sentiment.polarity
 
-    def analyze(x):
-        if x >= 0.5:
+    def analyze(x, positive_threshold=0.5, negative_threshold=-0.5):
+        if x >= positive_threshold:
             return 'Positive'
-        elif x <= -0.5:
+        elif x <= negative_threshold:
             return 'Negative'
         else:
             return 'Neutral'
@@ -46,6 +48,43 @@ with st.expander('Analyze EXCEL data'):
         df['score'] = df['tweets'].apply(score)
         df['analysis'] = df['score'].apply(analyze)
         st.write(df.head(10))
+
+        # Visualize sentiment distribution
+        sentiment_counts = df['analysis'].value_counts()
+        
+        # Create a bar chart for sentiment distribution
+        st.subheader('Sentiment Distribution')
+        st.bar_chart(sentiment_counts)
+
+        # Display sentiment distribution as a bar chart using Matplotlib
+        plt.figure(figsize=(8, 4))
+        plt.bar(sentiment_counts.index, sentiment_counts.values, color=['#00FF00', '#FFD700', '#FF0000'])
+        plt.title('Sentiment Distribution')
+        plt.xlabel('Sentiment')
+        plt.ylabel('Count')
+        plt.xticks(rotation=45)
+        st.pyplot(plt)
+
+        # Generate and display word clouds for positive and negative sentiments
+        positive_words = ' '.join(df[df['analysis'] == 'Positive']['tweets'])
+        negative_words = ' '.join(df[df['analysis'] == 'Negative']['tweets'])
+
+        # Create word clouds
+        positive_wc = WordCloud(width=800, height=400, background_color='white').generate(positive_words)
+        negative_wc = WordCloud(width=800, height=400, background_color='black', colormap='Reds').generate(negative_words)
+
+        # Display the word clouds
+        st.subheader('Word Cloud for Positive Sentiments')
+        plt.figure(figsize=(10, 5))
+        plt.imshow(positive_wc, interpolation='bilinear')
+        plt.axis('off')
+        st.pyplot(plt)
+
+        st.subheader('Word Cloud for Negative Sentiments')
+        plt.figure(figsize=(10, 5))
+        plt.imshow(negative_wc, interpolation='bilinear')
+        plt.axis('off')
+        st.pyplot(plt)
 
         @st.cache
         def convert_df(df):
