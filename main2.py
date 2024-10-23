@@ -45,11 +45,6 @@ with st.expander('Analyze English Text'):
         st.write(f"Negative Contribution: {round(negative_contribution, 2)}%")
         st.write(f"Neutral Contribution: {round(neutral_contribution, 2)}%")
 
-    clean_english_text = st.text_input('Clean English Text: ')
-    if clean_english_text:
-        st.write(cleantext.clean(clean_english_text, clean_all=False, extra_spaces=True,
-                                 stopwords=True, lowercase=True, numbers=True, punct=True))
-
 # Hindi Text Analysis Section
 with st.expander('Analyze Hindi Text'):
     hindi_text = st.text_input('Hindi Text here: ')
@@ -68,11 +63,6 @@ with st.expander('Analyze Hindi Text'):
         except Exception as e:
             st.error("Error in translation: " + str(e))
 
-    clean_hindi_text = st.text_input('Clean Hindi Text: ')
-    if clean_hindi_text:
-        st.write(cleantext.clean(clean_hindi_text, clean_all=False, extra_spaces=True,
-                                 stopwords=True, lowercase=True, numbers=True, punct=True))
-
 # Marathi Text Analysis Section
 with st.expander('Analyze Marathi Text'):
     marathi_text = st.text_input('Marathi Text here: ')
@@ -90,11 +80,6 @@ with st.expander('Analyze Marathi Text'):
             st.write(f"Neutral Contribution: {round(neutral_contribution, 2)}%")
         except Exception as e:
             st.error("Error in translation: " + str(e))
-
-    clean_marathi_text = st.text_input('Clean Marathi Text: ')
-    if clean_marathi_text:
-        st.write(cleantext.clean(clean_marathi_text, clean_all=False, extra_spaces=True,
-                                 stopwords=True, lowercase=True, numbers=True, punct=True))
 
 # CSV Analysis Section for English Texts
 with st.expander('Analyze CSV for English Texts'):
