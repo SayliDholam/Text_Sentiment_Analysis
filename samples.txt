@@ -1,96 +1,87 @@
-English Statements
+ENGLISH
 
 
 Positive Statements:
 
-"I had an amazing day at the beach!" (Polarity: 0.95)
-"Your presentation was very insightful and inspiring." (Polarity: 0.85)
-"The food at the restaurant was delicious." (Polarity: 0.90)
-"I'm so grateful for my supportive friends." (Polarity: 0.92)
-"This book changed my perspective on life." (Polarity: 0.88)
+It was cool near the beach at night
+The food at the restaurant was delicious
+This is the best meal I've ever had
 
 
 Negative Statements:
 
-"I had a terrible experience with the customer service." (Polarity: -0.85)
-"The movie was boring and a waste of time." (Polarity: -0.80)
-"I'm very disappointed with the product quality." (Polarity: -0.75)
-"The weather ruined our picnic plans." (Polarity: -0.90)
-"I feel sad and lost without my best friend." (Polarity: -0.70)
+I had a terrible experience with the customer service
+I'm very disappointed with the product quality
+The food tasted terrible and was cold
+This app has a terrible user interface, I am frustrated with this horrible service
 
 
 Neutral Statements:
 
-"I went to the grocery store yesterday." (Polarity: 0.0)
-"The meeting is scheduled for next week." (Polarity: 0.0)
-"The book is on the table." (Polarity: 0.0)
-"I need to buy some new clothes." (Polarity: 0.0)
-"There is a concert in the park tomorrow." (Polarity: 0.0)
+I went to the grocery store yesterday
+The book is on the table
+There is a concert in the park tomorrow
+This book changed my perspective on life
+
 
 
 ----------------------------------------------------------------------
 
 
-Hindi Statements
+HINDI 
 
 
 Positive Statements:
 
-"मुझे समुद्र किनारे एक अद्भुत दिन बिताने को मिला!" (Polarity: 0.95)
-"आपकी प्रस्तुति बहुत ज्ञानवर्धक और प्रेरणादायक थी।" (Polarity: 0.85)
-"रेस्टोरेंट का खाना बहुत स्वादिष्ट था।" (Polarity: 0.90)
-"मैं अपने सहायक दोस्तों के लिए बहुत आभारी हूं।" (Polarity: 0.92)
-"इस किताब ने मेरे जीवन पर दृष्टिकोण बदल दिया।" (Polarity: 0.88)
+मुझे समुद्र किनारे एक अद्भुत दिन बिताने को मिला
+आज का मौसम बहुत सुहाना है।
+यह जगह बहुत सुंदर है।
+मुझे आपके साथ काम करने में बहुत अच्छा लगा।
 
 
 Negative Statements:
 
-"मुझे ग्राहक सेवा के साथ एक भयानक अनुभव मिला।" (Polarity: -0.85)
-"फिल्म बोरिंग थी और समय की बर्बादी थी।" (Polarity: -0.80)
-"मैं उत्पाद की गुणवत्ता से बहुत निराश हूं।" (Polarity: -0.75)
-"मौसम ने हमारे पिकनिक की योजना को बर्बाद कर दिया।" (Polarity: -0.90)
-"मेरे सबसे अच्छे दोस्त के बिना मुझे दुखी और खोया हुआ महसूस होता है।" (Polarity: -0.70)
+मुझे ग्राहक सेवा के साथ एक भयानक अनुभव मिला।
+मैं उत्पाद की गुणवत्ता से बहुत निराश हूं।
+इस जगह की हालत बहुत बुरी है।
+आपकी सेवा बहुत खराब है।
 
 
 Neutral Statements:
 
-"मैं कल किराने की दुकान पर गया था।" (Polarity: 0.0)
-"बैठक अगले हफ्ते निर्धारित है।" (Polarity: 0.0)
-"किताब मेज पर है।" (Polarity: 0.0)
-"मुझे कुछ नए कपड़े खरीदने की जरूरत है।" (Polarity: 0.0)
-"कल पार्क में एक कॉन्सर्ट है।" (Polarity: 0.0)
+मैं कल किराने की दुकान पर गया था।
+बैठक अगले हफ्ते निर्धारित है।
+कल पार्क में एक कॉन्सर्ट है।
+
 
 
 --------------------------------------------------------------------------
 
-Marathi Statements:
+
+MARATHI 
 
 
 Positive Statements:
 
-"माझा समुद्र किनारी एक अद्भुत दिवस गेला!" (Polarity: 0.95)
-"तुमचा प्रेझेंटेशन खूप ज्ञानवर्धक आणि प्रेरणादायक होता." (Polarity: 0.85)
-"रेस्टॉरंटचा खाना खूप स्वादिष्ट होता." (Polarity: 0.90)
-"माझ्या सहकारी मित्रांबद्दल मला खूप आभार मानायचे आहेत." (Polarity: 0.92)
-"या पुस्तकाने माझ्या जीवनावर दृष्टिकोन बदलला." (Polarity: 0.88)
+माझा समुद्र किनारी एक अद्भुत दिवस गेला
+तुमचं काम चांगलं आहे, पुढे अजून सुधारता येईल.
+संधी मिळाल्यावर तुम्ही अजून चांगलं काम करू शकता
+तुम्ही काम चांगलं करत आहात, अजून मेहनत आवश्यक आहे
 
 
 Negative Statements:
 
-"माझा ग्राहक सेवेशी एक भयानक अनुभव होता." (Polarity: -0.85)
-"चित्रपट कंटाळवाणा आणि वेळ वाया घालवणारा होता." (Polarity: -0.80)
-"माझ्या उत्पादनाच्या गुणवत्तेवर मला खूप निराशा आहे." (Polarity: -0.75)
-"आसमानाने आमच्या पिकनिकच्या योजनेला बिघडवले." (Polarity: -0.90)
-"माझ्या सर्वात चांगल्या मित्राशिवाय मला दु:खी आणि हरवलेले वाटते." (Polarity: -0.70)
+माझा ग्राहक सेवेशी एक भयानक अनुभव होता.
+मला या कामात खूप निराशा झाली आहे.
+सेवा खूपच खराब आहे, अजिबात समाधान नाह.
+तुमच्या निर्णयामुळे परिस्थिती आणखी वाईट झाली आहे.
 
 
 Neutral Statements:
 
-"मी काल किरकोळ दुकानात गेलो." (Polarity: 0.0)
-"बैठक पुढील आठवड्यात आहे." (Polarity: 0.0)
-"पुस्तक टेबलवर आहे." (Polarity: 0.0)
-"मला काही नवीन कपडे खरेदी करण्याची आवश्यकता आहे." (Polarity: 0.0)
-"उद्या पार्कमध्ये एक संगीतकार आहे." (Polarity: 0.0)
+मी काल किरकोळ दुकानात गेलो
+हे एक नियमित कामकाज आहे.
+आजचा दिवस साधारण होता
 
 
-----------------------------------------------------------
+
