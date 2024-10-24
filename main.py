@@ -93,7 +93,7 @@ with st.expander('Analyze CSV for English Texts'):
             st.error("The file should have a 'tweets' column containing the text.")
         else:
             # Apply sentiment analysis to the text directly (No translation needed)
-            df_eng['polarity'], df_eng['subjectivity'], df_eng['positive_contribution'], df_eng['negative_contribution'], df_eng['neutral_contribution'] = zip(
+            df_eng['polarity'], df_eng['subjectivity'], df_eng['positive_contribution'], df_eng['negative_contribution'], df_eng['neutral_contribution'] = zip( 
                 *df_eng['tweets'].apply(analyze_sentiment)
             )
 
