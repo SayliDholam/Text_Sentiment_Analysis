@@ -1,0 +1,13 @@
+,tweets,polarity,subjectivity,positive_contribution,negative_contribution,neutral_contribution,analysis
+0,It was cool near the beach at night,0.22,0.53,22.0,0.0,0,Neutral
+1,The food at the restaurant was delicious,1.0,1.0,100.0,0.0,0,Positive
+2,This is the best meal I've ever had,1.0,0.3,100.0,0.0,0,Positive
+3,I had a terrible experience with the customer service,-1.0,1.0,0.0,100.0,0,Negative
+4,I'm very disappointed with the product quality,-0.98,0.98,0.0,98.0,0,Negative
+5,The food tasted terrible and was cold,-0.8,1.0,0.0,80.0,0,Negative
+6,"This app has a terrible user interface, I am frustrated with this horrible service",-0.9,0.73,0.0,90.0,0,Negative
+7,I went to the grocery store yesterday,0.0,0.0,0.0,0.0,100,Neutral
+8,I went to the grocery store yesterday.,0.0,0.0,0.0,0.0,100,Neutral
+9,The book is on the table,0.0,0.0,0.0,0.0,100,Neutral
+10,There is a concert in the park tomorrow,0.0,0.0,0.0,0.0,100,Neutral
+11,This book changed my perspective on life,0.0,0.0,0.0,0.0,100,Neutral
