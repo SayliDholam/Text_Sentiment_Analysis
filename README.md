@@ -15,5 +15,5 @@ pip install googletrans==4.0.0-rc1
 
 Press Windows + R, type cmd, and hit Enter.<br/>
 Navigate to the folder where your app.py is located using the cd command, then run the streamlit command -  <br/>
-streamlit run main.py
+streamlit run filename.py
 .
