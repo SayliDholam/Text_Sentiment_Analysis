@@ -55,27 +55,39 @@ Navigate to the folder where your app.py is located > open cmd from the director
 </br><br/><br/><br/>
 
 
+![app_ui](images/app_ui.jpg)
+<br/>*Application UI*
+
+<br/>
+
+![english](images/english.jpg)
+<br/>*English Text*
+
+<br/>
+
+![hindi](images/hindi.jpg)
+<br/>*Hindi Text*
+
+<br/>
+
+![marathi](images/marathi.jpg)
+<br/>*Hindi Text*
+
+<br/>
 ![system_design](images/system_design.jpg)
 <br/>*System Diagram*
 
 <br/>
 
-![flowchart](flowchart.jpg)
+![flowchart](images/flowchart.jpg)
 <br/>*Flowchart*
 
 <br/>
 
-![description_of_entities](description_of_entities.jpg)
+![description_of_entities](images/description_of_entities.jpg)
 <br/>*Description of Entities*
 
 <br/>
 
-![handwriting-recognition](handwriting-recognition.jpg)
-<br/>*Handwriting Recognition*
-
-<br/>
-
-![database](database.jpg)
-<br/>*Database*
 
 <br/>
