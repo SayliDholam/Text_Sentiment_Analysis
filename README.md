@@ -88,6 +88,20 @@ Python Script:</br>
  
 <br/><br/>
 
+- **Googletrans :**  <br/>
+MongoDB is a popular NoSQL database that stores data in JSON-like documents with a flexible schema. This makes it different from traditional relational databases, which store data in rows and columns.</br></br>
+Download MongoDB:</br>
+Go to the [MongoDB Download Center](https://www.mongodb.com/try/download/community) and select the version that matches your operating system.</br></br>
+Install MongoDB:</br>
+Run the downloaded installer and follow the installation wizard.</br>
+During installation, you can select the "Complete" setup type to install all MongoDB components.</br>
+Ensure that the option to install MongoDB as a service is checked.</br></br>
+Set up MongoDB Environment:</br>
+After installation, you need to create directories for data and logs.</br>
+``` md \data\db``` ```md \data\log ``` </br>
+
+<br/><br/>
+
 - **Matplotlib :**  <br/>
 MongoDB is a popular NoSQL database that stores data in JSON-like documents with a flexible schema. This makes it different from traditional relational databases, which store data in rows and columns.</br></br>
 Download MongoDB:</br>
