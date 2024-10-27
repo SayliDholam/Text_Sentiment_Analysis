@@ -75,6 +75,16 @@ Navigate to the folder where your app.py is located > open cmd from the director
 
 <br/>
 
+![english_csv](images/english_csvs.jpg)
+<br/>*English CSV File*
+
+<br/>
+
+![english_chart](images/english_chart.jpg)
+<br/>*Analysis Graph*
+
+<br/>
+
 ![system_design](images/system_design.jpg)
 <br/>*System Diagram*
 
@@ -89,6 +99,4 @@ Navigate to the folder where your app.py is located > open cmd from the director
 <br/>*Description of Entities*
 
 <br/>
-
-
 <br/>
