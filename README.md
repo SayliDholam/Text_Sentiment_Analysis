@@ -32,12 +32,8 @@ the batch analysis of text, and provides downloadable reports.
 
 ## Technologies Used :
 - **Streamlit :** <br/>
- customtkinter is an extension of the standard Tkinter library for Python, designed to provide a more modern and customizable interface. It adds new features and widgets that are not available in the standard Tkinter library, making it easier to create visually appealing and responsive user interfaces.
-<br/><br/> Features of customtkinter : <br/>
-Modern Look: Offers a more modern and sleek look for the widgets compared to the traditional Tkinter.<br/>
-Customization: Provides more options for customizing the appearance of widgets, including colors, shapes, and styles.
-<br/><br/> You can install customtkinter using pip : <br/>
-``` pip install customtkinter ```
+Streamlit is an open-source Python framework for building interactive web applications for data science and machine learning. It allows developers to create user-friendly apps quickly, using simple Python scripts without needing extensive front-end knowledge. Its intuitive API helps display charts, tables, and other media directly in the browser, making it ideal for data visualization projects and analytics dashboards.</br>
+``` pip install streamlit ```
 <br/><br/>
 
 - **Pandas :** <br/>
