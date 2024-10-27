@@ -65,8 +65,8 @@ Navigate to the folder where your app.py is located > open cmd from the director
 
 <br/>
 
-![er-diagram](er-diagram.jpg)
-<br/>*Entity Relationship Diagram*
+![description_of_entities](description_of_entities.jpg)
+<br/>*Description of Entities*
 
 <br/>
 
