@@ -1,21 +1,3 @@
-# Text_Sentiment_Analysis
-
-
-<br/><br/>
-to be updated
-<br/><br/>
-pip install textblob<br/>
-pip install pandas<br/>
-pip install streamlit<br/>
-pip install clean-text[gpl]<br/>
-pip install openpyxl <br/>
-pip install matplotlib<br/>
-pip install googletrans==4.0.0-rc1
-</br>
-.
-
-
-</br></br>
 
 # Text_Sentiment_Analysis
 The primary objective of this project is to perform sentiment analysis on user-input text or CSV datasets, focusing on
@@ -42,89 +24,25 @@ Pandas is a powerful data manipulation library in Python widely used for handlin
 <br/><br/>
 
 - **TextBlob :**  <br/>
-MongoDB is a popular NoSQL database that stores data in JSON-like documents with a flexible schema. This makes it different from traditional relational databases, which store data in rows and columns.</br></br>
-Download MongoDB:</br>
-Go to the [MongoDB Download Center](https://www.mongodb.com/try/download/community) and select the version that matches your operating system.</br></br>
-Install MongoDB:</br>
-Run the downloaded installer and follow the installation wizard.</br>
-During installation, you can select the "Complete" setup type to install all MongoDB components.</br>
-Ensure that the option to install MongoDB as a service is checked.</br></br>
-Set up MongoDB Environment:</br>
-After installation, you need to create directories for data and logs.</br>
-``` md \data\db``` ```md \data\log ``` </br></br>
-Run MongoDB:</br>
-Open a command prompt and start the MongoDB server by running:</br>
-``` "C:\Program Files\MongoDB\Server\{your_version}\bin\mongod.exe" ```</br></br>
-Connecting to MongoDB:</br>
-To interact with MongoDB, you can use the MongoDB shell or a GUI tool like MongoDB Compass.</br></br>
-Using MongoDB with Python</br>
-```pip install pymongo```</br></br>
-Python Script:</br>
-``` from pymongo import MongoClient ```
- 
+TextBlob is a natural language processing (NLP) library that simplifies text analysis and language processing tasks, such as sentiment analysis, noun phrase extraction, and translation. It is built on top of NLTK (Natural Language Toolkit) and provides intuitive methods for sentiment scoring and language detection, which are essential for tasks like social media analysis and customer feedback evaluation.</br>
+``` pip install textblob ```
 <br/><br/>
 
 - **Openpyxl :**  <br/>
-MongoDB is a popular NoSQL database that stores data in JSON-like documents with a flexible schema. This makes it different from traditional relational databases, which store data in rows and columns.</br></br>
-Download MongoDB:</br>
-Go to the [MongoDB Download Center](https://www.mongodb.com/try/download/community) and select the version that matches your operating system.</br></br>
-Install MongoDB:</br>
-Run the downloaded installer and follow the installation wizard.</br>
-During installation, you can select the "Complete" setup type to install all MongoDB components.</br>
-Ensure that the option to install MongoDB as a service is checked.</br></br>
-Set up MongoDB Environment:</br>
-After installation, you need to create directories for data and logs.</br>
-``` md \data\db``` ```md \data\log ``` </br></br>
-Run MongoDB:</br>
-Open a command prompt and start the MongoDB server by running:</br>
-``` "C:\Program Files\MongoDB\Server\{your_version}\bin\mongod.exe" ```</br></br>
-Connecting to MongoDB:</br>
-To interact with MongoDB, you can use the MongoDB shell or a GUI tool like MongoDB Compass.</br></br>
-Using MongoDB with Python</br>
-```pip install pymongo```</br></br>
-Python Script:</br>
-``` from pymongo import MongoClient ```
-
- 
+penpyxl is a Python library for reading and writing Excel (XLSX) files. It’s particularly useful for projects that require data import/export to Excel, enabling developers to create, modify, and format workbooks and spreadsheets programmatically. Openpyxl is highly efficient for handling Excel data and integrating it into Python-based data pipelines.</br>
+``` pip install openpyxl ```
 <br/><br/>
 
 - **Googletrans :**  <br/>
-MongoDB is a popular NoSQL database that stores data in JSON-like documents with a flexible schema. This makes it different from traditional relational databases, which store data in rows and columns.</br></br>
-Download MongoDB:</br>
-Go to the [MongoDB Download Center](https://www.mongodb.com/try/download/community) and select the version that matches your operating system.</br></br>
-Install MongoDB:</br>
-Run the downloaded installer and follow the installation wizard.</br>
-During installation, you can select the "Complete" setup type to install all MongoDB components.</br>
-Ensure that the option to install MongoDB as a service is checked.</br></br>
-Set up MongoDB Environment:</br>
-After installation, you need to create directories for data and logs.</br>
-``` md \data\db``` ```md \data\log ``` </br>
-
+Googletrans is a Python library that serves as an unofficial API wrapper for Google Translate, allowing developers to integrate translation functionality directly into their applications. It provides easy-to-use methods for translating text between multiple languages, detecting the language of a given text, and accessing translation details like pronunciation and transliteration. Googletrans supports a wide range of languages, making it ideal for multilingual applications or projects that require real-time text translation.</br>
+``` pip install googletrans==4.0.0-rc1 ``` 
 <br/><br/>
 
 - **Matplotlib :**  <br/>
-MongoDB is a popular NoSQL database that stores data in JSON-like documents with a flexible schema. This makes it different from traditional relational databases, which store data in rows and columns.</br></br>
-Download MongoDB:</br>
-Go to the [MongoDB Download Center](https://www.mongodb.com/try/download/community) and select the version that matches your operating system.</br></br>
-Install MongoDB:</br>
-Run the downloaded installer and follow the installation wizard.</br>
-During installation, you can select the "Complete" setup type to install all MongoDB components.</br>
-Ensure that the option to install MongoDB as a service is checked.</br></br>
-Set up MongoDB Environment:</br>
-After installation, you need to create directories for data and logs.</br>
-``` md \data\db``` ```md \data\log ``` </br></br>
-Run MongoDB:</br>
-Open a command prompt and start the MongoDB server by running:</br>
-``` "C:\Program Files\MongoDB\Server\{your_version}\bin\mongod.exe" ```</br></br>
-Connecting to MongoDB:</br>
-To interact with MongoDB, you can use the MongoDB shell or a GUI tool like MongoDB Compass.</br></br>
-Using MongoDB with Python</br>
-```pip install pymongo```</br></br>
-Python Script:</br>
-``` from pymongo import MongoClient ```
+Matplotlib is a popular Python library for creating static, animated, and interactive visualizations. Known for its versatility and extensive customization options, it allows users to build a wide variety of plots, including bar charts, line plots, histograms, and more. This flexibility makes it essential for data analysis projects where clear and interpretable visualizations are required.</br>
+``` pip install matplotlib ```
+</br></br></br>
 
- 
-</br></br>
 
 ## To execute the application : </br>
 Navigate to the folder where your app.py is located > open cmd from the directory > streamlit run filename.py > hit Enter
