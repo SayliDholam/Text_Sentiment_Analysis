@@ -102,5 +102,8 @@ Navigate to the folder where your app.py is located > open cmd from the director
 <br/>
 <br/>
 
-<br/> ![Link](https://github.com/Vidito/textblob_sentiment_analysis/tree/main)
+<br/>
+
+[Link](https://github.com/Vidito/textblob_sentiment_analysis/tree/main)
+
 <br/>
