@@ -71,9 +71,10 @@ Navigate to the folder where your app.py is located > open cmd from the director
 <br/>
 
 ![marathi](images/marathi.jpg)
-<br/>*Hindi Text*
+<br/>*Marathi Text*
 
 <br/>
+
 ![system_design](images/system_design.jpg)
 <br/>*System Diagram*
 
