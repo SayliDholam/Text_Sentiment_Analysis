@@ -15,7 +15,7 @@ the batch analysis of text, and provides downloadable reports.
 ## Technologies Used :
 - **Streamlit :** <br/>
 Streamlit is an open-source Python framework for building interactive web applications for data science and machine learning. It allows developers to create user-friendly apps quickly, using simple Python scripts without needing extensive front-end knowledge. Its intuitive API helps display charts, tables, and other media directly in the browser, making it ideal for data visualization projects and analytics dashboards.</br>
-Download and Install [PyTesseract](https://pypi.org/project/pytesseract/)<br/>
+About[Streamlit](https://pypi.org/project/pytesseract/)<br/>
 ``` pip install streamlit ```
 <br/><br/>
 
