@@ -55,7 +55,7 @@ Navigate to the folder where your app.py is located > open cmd from the director
 </br><br/><br/><br/>
 
 
-![system_design](images/system_diagram.jpg)
+![system_design](images/system_design.jpg)
 <br/>*System Diagram*
 
 <br/>
