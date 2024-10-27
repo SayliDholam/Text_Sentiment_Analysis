@@ -46,7 +46,7 @@ Matplotlib is a popular Python library for creating static, animated, and intera
 
 ## To execute the application : </br>
 Navigate to the folder where your app.py is located > open cmd from the directory > streamlit run filename.py 
-</br><br/><br/>><br/>
+</br><br/><br/><br/>
 
 
 ![system_design](system_diagram.jpg)
