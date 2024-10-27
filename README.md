@@ -37,13 +37,8 @@ Streamlit is an open-source Python framework for building interactive web applic
 <br/><br/>
 
 - **Pandas :** <br/>
-PyTesseract is a Python wrapper for Google Tesseract-OCR, an optical character recognition (OCR) tool for extracting text from images. It allows you to use Tesseract's capabilities within Python programs
-<br/><br/>Download and Install [PyTesseract](https://pypi.org/project/pytesseract/)
-<br/><br/>Using pip command : <br/>
-```pip install pytesseract pillow```<br/>
-<br/>Write the below import in python code :<br/>
-```from PIL import Image```<br/>
-``` import pytesseract ```
+Pandas is a powerful data manipulation library in Python widely used for handling and analyzing structured data. It offers data structures like DataFrames to store, filter, aggregate, and perform complex data transformations efficiently. Pandas is often used in data preprocessing stages, as well as for importing and exporting data to and from various formats, such as CSV and Excel.</br>
+``` pip install pandas ```
 <br/><br/>
 
 - **TextBlob :**  <br/>
