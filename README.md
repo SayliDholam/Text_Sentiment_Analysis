@@ -75,7 +75,7 @@ Navigate to the folder where your app.py is located > open cmd from the director
 
 <br/>
 
-![english_csv](images/english_csvs.jpg)
+![english_csv](images/english_csv.jpg)
 <br/>*English CSV File*
 
 <br/>
