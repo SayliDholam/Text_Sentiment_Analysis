@@ -22,13 +22,15 @@ streamlit run filename.py
 </br></br>
 
 # Text_Sentiment_Analysis
-The primary objective of this project is to allow the processing of data which 
-comes from sources which are not in readily available state for analytical 
-functions to work upon them.  
-Here the concerned domain is the handwritten text base images from which text 
-needs to be recognized, displayed and stored. </br>
-This is where the application of OCR features, image processing, image storing, 
-and alphabetical recognition become relevant.
+The primary objective of this project is to perform sentiment analysis on user-input text or CSV datasets, focusing on
+identifying and categorizing opinions as positive, negative, or neutral. This
+project addresses the growing need for efficient sentiment analysis across various
+languages (English, Hindi, Marathi) and supports translation for non-English
+inputs. </br>
+The app processes user inputs, conducts polarity and subjectivity analysis,
+and visualizes the results through detailed graphical representations and tabular
+data. Additionally, the project offers functionality for CSV file uploads, enabling
+the batch analysis of text, and provides downloadable reports. 
 
 </br>
 
