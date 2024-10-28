@@ -55,27 +55,55 @@ Navigate to the folder where your app.py is located > open cmd from the director
 </br><br/><br/><br/>
 
 
-![system_design](system_diagram.jpg)
+![app_ui](images/app_ui.jpg)
+<br/>*Application UI*
+
+<br/>
+
+![english](images/english.jpg)
+<br/>*English Text*
+
+<br/>
+
+![hindi](images/hindi.jpg)
+<br/>*Hindi Text*
+
+<br/>
+
+![marathi](images/marathi.jpg)
+<br/>*Marathi Text*
+
+<br/>
+
+![english_csv](images/english_csv.jpg)
+<br/>*English CSV File*
+
+<br/>
+
+![english_chart](images/english_chart.jpg)
+<br/>*Analysis Graph*
+
+<br/>
+
+![system_design](images/system_design.jpg)
 <br/>*System Diagram*
 
 <br/>
 
-![flowchart](flowchart.jpg)
+![flowchart](images/flowchart.jpg)
 <br/>*Flowchart*
 
 <br/>
 
-![description_of_entities](description_of_entities.jpg)
+![description_of_entities](images/description_of_entities.jpg)
 <br/>*Description of Entities*
 
 <br/>
-
-![handwriting-recognition](handwriting-recognition.jpg)
-<br/>*Handwriting Recognition*
+<br/>
+<br/>
 
 <br/>
 
-![database](database.jpg)
-<br/>*Database*
+[Link](https://github.com/Vidito/textblob_sentiment_analysis/tree/main)
 
 <br/>
