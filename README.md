@@ -3,8 +3,7 @@
 The primary objective of this project is to perform sentiment analysis on user-input text or CSV datasets, focusing on
 identifying and categorizing opinions as positive, negative, or neutral. This
 project addresses the growing need for efficient sentiment analysis across various
-languages (English, Hindi, Marathi) and supports translation for non-English
-inputs. </br>
+languages (English, Hindi, Marathi) </br>
 The app processes user inputs, conducts polarity and subjectivity analysis,
 and visualizes the results through detailed graphical representations and tabular
 data. Additionally, the project offers functionality for CSV file uploads, enabling
