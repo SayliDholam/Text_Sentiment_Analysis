@@ -6,13 +6,16 @@ Positive Statements:
 It was cool near the beach at night
 The food at the restaurant was delicious
 This is the best meal I've ever had
-
+today was the best day for me so i feel very happy
+today was the best day for me
+love is the most twisted curse of all
 
 Negative Statements:
 
 I had a terrible experience with the customer service
 I'm very disappointed with the product quality
 The food tasted terrible and was cold
+The food tasted cold
 This app has a terrible user interface, I am frustrated with this horrible service
 
 
@@ -22,7 +25,10 @@ I went to the grocery store yesterday
 The book is on the table
 There is a concert in the park tomorrow
 This book changed my perspective on life
-
+the market is towards the north
+the sun rises in the east
+the moon has phases
+he is quite religious and philosophical
 
 
 ----------------------------------------------------------------------
@@ -33,10 +39,9 @@ HINDI
 
 Positive Statements:
 
-मुझे समुद्र किनारे एक अद्भुत दिन बिताने को मिला
-आज का मौसम बहुत सुहाना है।
+आज का मौसम सुहाना है।
 यह जगह बहुत सुंदर है।
-मुझे आपके साथ काम करने में बहुत अच्छा लगा।
+मुझे आपके साथ काम करने में अच्छा लगा।
 
 
 Negative Statements:
@@ -44,7 +49,7 @@ Negative Statements:
 मुझे ग्राहक सेवा के साथ एक भयानक अनुभव मिला।
 मैं उत्पाद की गुणवत्ता से बहुत निराश हूं।
 इस जगह की हालत बहुत बुरी है।
-आपकी सेवा बहुत खराब है।
+आपकी सेवा खराब है।
 
 
 Neutral Statements:
@@ -63,7 +68,6 @@ MARATHI
 
 Positive Statements:
 
-माझा समुद्र किनारी एक अद्भुत दिवस गेला
 तुमचं काम चांगलं आहे, पुढे अजून सुधारता येईल.
 संधी मिळाल्यावर तुम्ही अजून चांगलं काम करू शकता
 तुम्ही काम चांगलं करत आहात, अजून मेहनत आवश्यक आहे
@@ -71,10 +75,9 @@ Positive Statements:
 
 Negative Statements:
 
-माझा ग्राहक सेवेशी एक भयानक अनुभव होता.
 मला या कामात खूप निराशा झाली आहे.
 सेवा खूपच खराब आहे, अजिबात समाधान नाह.
-तुमच्या निर्णयामुळे परिस्थिती आणखी वाईट झाली आहे.
+तुमच्या निर्णयामुळे परिस्थिती आणखी वाईट झाली आहे
 
 
 Neutral Statements:
