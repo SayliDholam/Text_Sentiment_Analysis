@@ -3,7 +3,6 @@ ENGLISH
 
 Positive Statements:
 
-It was cool near the beach at night
 The food at the restaurant was delicious
 This is the best meal I've ever had
 today was the best day for me so i feel very happy
@@ -16,7 +15,8 @@ I had a terrible experience with the customer service
 I'm very disappointed with the product quality
 The food tasted terrible and was cold
 The food tasted cold
-This app has a terrible user interface, I am frustrated with this horrible service
+This app has a terrible user interface
+I am frustrated with this horrible service
 
 
 Neutral Statements:
@@ -69,8 +69,10 @@ MARATHI
 Positive Statements:
 
 तुमचं काम चांगलं आहे, पुढे अजून सुधारता येईल.
+जीवनात चांगल्या गोष्टी घडता
 संधी मिळाल्यावर तुम्ही अजून चांगलं काम करू शकता
 तुम्ही काम चांगलं करत आहात, अजून मेहनत आवश्यक आहे
+तू खूप सुंदर आहेस
 
 
 Negative Statements:
