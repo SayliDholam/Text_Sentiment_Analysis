@@ -115,12 +115,11 @@ with st.expander('Analyze CSV for English Texts'):
 
             # Display sentiment distribution as a bar chart using Matplotlib
             plt.figure(figsize=(8, 4))
-            plt.bar(sentiment_counts_eng.index, sentiment_counts_eng.values, color=['#00FF00', '#FFD700', '#FF0000'])
+            plt.plot(sentiment_counts_eng.index, sentiment_counts_eng.values, color=['#00FF00', '#FFD700', '#FF0000'])
             plt.title('Sentiment Distribution')
             plt.xlabel('Sentiment')
             plt.ylabel('Count')
             plt.xticks(rotation=45)
-            st.pyplot(plt)
 
             # Function to convert dataframe to CSV
             @st.cache_data
