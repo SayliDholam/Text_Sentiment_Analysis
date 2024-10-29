@@ -7,7 +7,7 @@ languages (English, Hindi, Marathi) </br>
 The app processes user inputs, conducts polarity and subjectivity analysis,
 and visualizes the results through detailed graphical representations and tabular
 data. Additionally, the project offers functionality for CSV file uploads, enabling
-the batch analysis of text, and provides downloadable reports. 
+the batch analysis of text, and provides downloadable reports.
 
 </br>
 
